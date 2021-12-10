@@ -1,1 +1,2 @@
 This is my first entry in test1.txt
+My second entry.
