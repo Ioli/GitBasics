@@ -1,3 +1,7 @@
 First entry here.
 Second entry. Still in master.
+<<<<<<< HEAD
 Main branch new change.
+=======
+New entry of b1.
+>>>>>>> b1
